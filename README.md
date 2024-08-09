@@ -1,5 +1,5 @@
-- 👋 Hi, I’m  Basil Dayigil
-- A MERN fullstack software developer
+  Basil Dayigil
+Software dev
 - Lets connect.. basildayigil@gmail.com
 
 <!---
