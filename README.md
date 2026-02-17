@@ -1,5 +1,5 @@
-  Basil Dayigil
-Software dev
+Basil Dayigil
+Software Engineer || Computer Science Grad || Building/Shipping Cool stuffs
 - Lets connect.. basildayigil@gmail.com
 
 <!---
