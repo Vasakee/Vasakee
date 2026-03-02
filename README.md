@@ -16,6 +16,7 @@ Currently building in:
 - 🗄️ SQL , NoSQL and Vector Databases
 - 🔌 APIs & System Design
 - 🤖 AI integrations & automation
+- Rust & Solana Blockchain **coming shortly** 
 
 ---
 
@@ -25,7 +26,8 @@ Currently building in:
 - Backend Architecture  
 - Product Engineering  
 - AI-powered tools  
-- Shipping fast & iterating smarter  
+- Shipping fast & iterating smarter
+- Blockchain **....**
 
 ---
 
