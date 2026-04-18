@@ -16,7 +16,7 @@ Currently building in:
 - 🗄️ SQL , NoSQL and Vector Databases
 - 🔌 APIs & System Design
 - 🤖 AI integrations & automation
-- Rust & Solana Blockchain **coming shortly** 
+- Rust & Solana Blockchain 
 
 ---
 
