@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Basil Dayigil
 
-### Software Engineer | Computer Science Graduate  
+### Software Engineer | Computer Science Student  
 Building & shipping cool stuff 🚀
 
 ---
